@@ -6,5 +6,5 @@ altair
 matplotlib
 seaborn
 joblib
-models
+
 
